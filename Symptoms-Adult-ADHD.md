@@ -1,3 +1,5 @@
+## 91 Potential Symptoms of Adult ADHD
+
 It is generally understood that the 18 diagnostic items in the current DSM are inadequate
 with respect to covering the range of symptoms presented by an adult with ADHD. 
 Below is a list of additional symptoms that may indicate the presence of ADHD in adults,
