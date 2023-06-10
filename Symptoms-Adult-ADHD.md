@@ -3,7 +3,7 @@
 It is generally understood that the 18 diagnostic items in the current DSM are inadequate
 with respect to covering the range of symptoms presented by an adult with ADHD. 
 Below is a list of additional symptoms that may indicate the presence of ADHD in adults,
-as presented by Dr. Russell Barkley, Ph.D. (and others) in the book Taking Charge of Adult ADHD:
+as presented by Dr. Russell Barkley, Ph.D. (and others) in the book [Taking Charge of Adult ADHD](https://www.guilford.com/books/Taking-Charge-of-Adult-ADHD/Russell-Barkley/9781462546855):
 
 1. Find it difficult to tolerate waiting; impatient  
 2. Make decisions impulsively  
