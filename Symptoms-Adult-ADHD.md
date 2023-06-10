@@ -101,3 +101,8 @@ Note (in the book): Results are from ADHD in Adults: What the Science Says by Ru
 Murphy, and Mariellen Fischer (GuilfordPress, 2008)
 
 I am reproducing this list to share as an informational resource only. All proper rights belong to it's original creators. 
+
+[Dr. Barkley's Site](https://www.russellbarkley.org/)
+And my current favorite ADHD resources:
+[Dr. Barkley's Youtube](https://www.youtube.com/@russellbarkleyphd2023)
+[How to ADHD](https://www.youtube.com/c/howtoadhd) - my favorite channel for an empathetic approach to understanding and living life with ADHD.
