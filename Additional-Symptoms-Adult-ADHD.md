@@ -6,7 +6,7 @@ with respect to covering the range of symptoms presented by an adult with ADHD.
 Below is a list of additional symptoms (read: clearer and more relevant to adults) that may indicate the presence of ADHD in adults,
 copied from the book [Taking Charge of Adult ADHD](https://www.guilford.com/books/Taking-Charge-of-Adult-ADHD/Russell-Barkley/9781462546855) by Dr. Russell Barkley, PhD (and others). 
 
-People with ADHD are more likely to:
+People with ADHD:
 
 1. Find it difficult to tolerate waiting; impatient  
 2. Make decisions impulsively  
